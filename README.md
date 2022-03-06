@@ -40,4 +40,4 @@ assuming that the distance between two stations (x1, y1) and (x2, y2) can be cal
 
 ### Python
 - [code solution](./solution.py)
-- [Try the solution online on Repl.it](https://replit.com/@SaidAbdoo/findBestStationChallengeJs#index.js)
+- [Try the solution online on Repl.it](https://replit.com/@SaidAbdoo/findBestStationChallenge#main.py)
