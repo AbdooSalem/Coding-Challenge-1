@@ -28,7 +28,9 @@ Print out function output from points​ (x, y):
 
 ## Solution
 assuming that the distance between two stations (x1, y1) and (x2, y2) can be calculated using the formula
-$$distance=\sqrt{(x_1 - x_2)^2 + (y_1 - y_2)^2}$$
+
+
+![\Large distance=\sqrt{(x_1 - x_2)^2 + (y_1 - y_2)^2}](https://latex.codecogs.com/svg.latex?\Large&space;distance=\sqrt{(x_1-x_2)^2+(y_1-y_2)^2}) 
 
 
 ### Javascript
