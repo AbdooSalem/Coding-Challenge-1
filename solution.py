@@ -31,6 +31,7 @@ def calculatePower(station, x, y):
 # test examples
 stations = [[0, 0, 10], [20, 20, 5], [10, 0, 12]]
 
-findBestStation(stations, 0, 1)
-findBestStation(stations, 15, 15)
-findBestStation(stations, 5.2, 0)
+findBestStation(stations, 0, 0)
+findBestStation(stations, 100, 100)
+findBestStation(stations, 15, 10)
+findBestStation(stations, 18, 18)
